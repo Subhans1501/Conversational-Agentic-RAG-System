@@ -1,0 +1,6 @@
+Dataset Summary Statistics
+------------------------------
+Total Conversation Pairs: 387431
+Average Prompt Length: 13.5 words
+Average Response Length: 13.9 words
+Max Response Length: 278 words

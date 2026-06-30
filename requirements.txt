@@ -1,0 +1,20 @@
+# --- Core Data & Environment ---
+pandas
+pyarrow
+jupyter
+scikit-learn
+
+# --- Deep Learning & NLP ---
+torch
+transformers
+datasets
+accelerate
+sentence-transformers
+
+# --- Vector Database ---
+faiss-cpu
+seaborn
+nltk
+# --- User Interface (Bonus) ---
+streamlit
+rouge_score

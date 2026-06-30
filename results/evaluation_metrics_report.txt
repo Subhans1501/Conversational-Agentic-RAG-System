@@ -1,0 +1,30 @@
+==================================================
+🧠 NLP METRICS EVALUATION REPORT
+==================================================
+
+Test 1:
+User: Hello, how are you doing today?
+Reference: I am doing well, thank you! How can I help you?
+Bot Generated: I'm good. How about yourself? I hope to meet a lot of people this year, but it's not my time yet.But what do we have in mind for next week when the new
+Metrics -> BLEU: 0.0102 | ROUGE-1: 0.1702 | ROUGE-L: 0.1277
+
+Test 2:
+User: I would like to book a table for two.
+Reference: Certainly. What time would you like the reservation for?
+Bot Generated: You can have one, sir. You know I will be there in fifteen minutes and you may pay by airmail or cash? What's your flight number again please! Thanks so much... And this
+Metrics -> BLEU: 0.0086 | ROUGE-1: 0.0930 | ROUGE-L: 0.0465
+
+Test 3:
+User: What is the weather usually like in the summer?
+Reference: It is usually very hot and sunny during the summer.
+Bot Generated: It's very hot and cold. I have to wear clothes everyday, but it isn't too bad at all when you are outside of your apartment or office! It feels so nice there this time around
+Metrics -> BLEU: 0.0388 | ROUGE-1: 0.1702 | ROUGE-L: 0.1702
+
+
+==================================================
+📊 FINAL SYSTEM AVERAGES
+--------------------------------------------------
+Average BLEU Score:   0.0192  (Measures exact word overlap)
+Average ROUGE-1 F1:   0.1445  (Measures keyword recall)
+Average ROUGE-L F1:   0.1148  (Measures sentence structure/flow)
+==================================================
