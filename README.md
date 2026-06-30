@@ -66,6 +66,7 @@ conversational_agent/
 ## Quick Setup & Interface Initiation
 ### Prerequisites
 Python 3.8+
+
 Git
 
 ### Installation Steps
